@@ -1,4 +1,3 @@
-import geopandas as pd
 import pandas as pd
 
 
