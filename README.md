@@ -7,9 +7,11 @@ Tasked with either a literature review or a small project and accompanying repor
 ## Tasks
 * Process available public transit data for the Heidelberg region
     + deal with GTFS files
-    + display station locations on a map
-    + quality assesment
-        - assess against personal knowledge of the area, find deficits
+        + find stop locations ✅
+        + process route information
+    + display station locations on a map ✅
+    + quality assesment 
+        - assess against personal knowledge of the area, find deficits ✅
         - assess against OSM data
 * Pull Hospital Locations from OSM Data within selected region 
     + display hospital locations against a map
@@ -36,4 +38,6 @@ Tasked with either a literature review or a small project and accompanying repor
 
 ## Data Sources
  RNV (2022). Soll-Fahrplandaten RNV. https://gtfs-sandbox-dds.rnv-online.de/latest/gtfs.zip.
+ 
+ VRN GmbH (2022). Archiv der Soll-Fahrplandaten (GTFS Archiv). https://www.vrn.de/opendata/datasets/archiv-der-soll-fahrplandaten-gtfs-archiv.
 
