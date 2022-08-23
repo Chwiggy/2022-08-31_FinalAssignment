@@ -37,6 +37,8 @@ Tasked with either a literature review or a small project and accompanying repor
         - find useful algorithm
 
 ## Data Sources
+ LGL (2022): Kreise. https://www.lgl-bw.de/Produkte/Open-Data/#Vektordaten
+ 
  RNV (2022). Soll-Fahrplandaten RNV. https://gtfs-sandbox-dds.rnv-online.de/latest/gtfs.zip.
  
  VRN GmbH (2022). Archiv der Soll-Fahrplandaten (GTFS Archiv). https://www.vrn.de/opendata/datasets/archiv-der-soll-fahrplandaten-gtfs-archiv.
