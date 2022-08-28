@@ -10,23 +10,22 @@ Tasked with either a literature review or a small project and accompanying repor
         + find stop locations ✅
         + process route information
     + display station locations on a map ✅
-    + quality assesment 
+    + quality assesment ✅
         - assess against personal knowledge of the area, find deficits ✅
-        - assess against OSM data
-* Pull Hospital Locations from OSM Data within selected region 
-    + display hospital locations against a map
-    + quality assesment
-        - ohsome data quality tools
-        - personal knowledge
+        - assess against OSM data ✅
+* Pull Hospital Locations from OSM Data within selected region ✅
+    + display hospital locations against a map ✅
+    + quality assesment ✅
+        - ohsome data quality tools ✅ (but was unhelpful)
+        - personal knowledge ✅
 * Reachability Analysis
-    + get walking-isochrones from ORS including population data
-    + find stations within walking-isochrone
-    + display on map
-    + Combine walking times (from ORS) with station departures to find reachable departures
-    + display on map
+    + get walking-isochrones from ORS ✅
+    + find stations within walking-isochrone ✅
+    + display on map ✅
 
 ## Stretch Goals
 * public transport routing
+    + Combine walking times (from ORS) with station departures to find reachable departures
     + find previous stops within time limit
     + walking isochrones based on remaining time
     + iterate until timelimit is reached
@@ -37,7 +36,7 @@ Tasked with either a literature review or a small project and accompanying repor
         - find useful algorithm
 
 ## Data Sources
- LGL (2022): Kreise. https://www.lgl-bw.de/Produkte/Open-Data/#Vektordaten
+ LGL (2017): Kreise. https://www.lgl-bw.de/Produkte/Open-Data/#Vektordaten
  
  RNV (2022). Soll-Fahrplandaten RNV. https://gtfs-sandbox-dds.rnv-online.de/latest/gtfs.zip.
  
